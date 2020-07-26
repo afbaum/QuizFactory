@@ -8,32 +8,6 @@ namespace QuizFactory
     public static class QuizFactory
     
     { 
-            //   TODO; pull from CSV file
-
-        public static List<PromptAnswer> quizData = new List<PromptAnswer>{};
-
-        // public static List<PromptAnswer> CountryData = new List<PromptAnswer> {
-        //     new PromptAnswer("Afghanistan", "Kabul"),
-        //     new PromptAnswer("Albaia", "Tirana"),
-        //     new PromptAnswer("Algeria", "Algiers"),
-        //     new PromptAnswer("Andorra", "Andorra La Vella"),
-        //     new PromptAnswer("Angola", "Luanda"),
-        //     new PromptAnswer("Antigua & Barbuda", "Saint Johns"),
-        //     new PromptAnswer("Argentina", "Buenos Aires"),
-        //     new PromptAnswer("Armenia", "Yerevan"),
-        //     new PromptAnswer("Australia", "Canberra"),
-        //     new PromptAnswer("Austria", "Vienna"),
-        //     new PromptAnswer("Azerbaijan", "Baku"),
-        //     new PromptAnswer("Bahamas", "Nassau"),
-        //     new PromptAnswer("Bahrain", "Manama"),
-        //     new PromptAnswer("Bangladesh", "Bridgetown"),
-        //     new PromptAnswer("Belarus", "Minsk"),
-        //     new PromptAnswer("Belgium", "Brussels"),
-        //     new PromptAnswer("Belize", "Belmopan"),
-        //     new PromptAnswer("Benin", "Porto-Novo"),
-        //     new PromptAnswer("Bhutan", "Thimphu"),
-        // };
-
         public static void GenerateQuiz(int quizType)
         {   
             // List<PromptAnswer> quizData = new List<PromptAnwser>();
