@@ -1,0 +1,13 @@
+C:\Users\Amanda\Desktop\CS\QuizFactory\obj\Debug\netcoreapp3.1\QuizFactory.csprojAssemblyReference.cache
+C:\Users\Amanda\Desktop\CS\QuizFactory\obj\Debug\netcoreapp3.1\QuizFactory.AssemblyInfoInputs.cache
+C:\Users\Amanda\Desktop\CS\QuizFactory\obj\Debug\netcoreapp3.1\QuizFactory.AssemblyInfo.cs
+C:\Users\Amanda\Desktop\CS\QuizFactory\obj\Debug\netcoreapp3.1\QuizFactory.csproj.CoreCompileInputs.cache
+C:\Users\Amanda\Desktop\CS\QuizFactory\bin\Debug\netcoreapp3.1\QuizFactory.exe
+C:\Users\Amanda\Desktop\CS\QuizFactory\bin\Debug\netcoreapp3.1\QuizFactory.deps.json
+C:\Users\Amanda\Desktop\CS\QuizFactory\bin\Debug\netcoreapp3.1\QuizFactory.runtimeconfig.json
+C:\Users\Amanda\Desktop\CS\QuizFactory\bin\Debug\netcoreapp3.1\QuizFactory.runtimeconfig.dev.json
+C:\Users\Amanda\Desktop\CS\QuizFactory\bin\Debug\netcoreapp3.1\QuizFactory.dll
+C:\Users\Amanda\Desktop\CS\QuizFactory\bin\Debug\netcoreapp3.1\QuizFactory.pdb
+C:\Users\Amanda\Desktop\CS\QuizFactory\obj\Debug\netcoreapp3.1\QuizFactory.dll
+C:\Users\Amanda\Desktop\CS\QuizFactory\obj\Debug\netcoreapp3.1\QuizFactory.pdb
+C:\Users\Amanda\Desktop\CS\QuizFactory\obj\Debug\netcoreapp3.1\QuizFactory.genruntimeconfig.cache
