@@ -1,0 +1,118 @@
+
+ Study Quiz Set
+ Gray-Baum Acadamy 
+
+What is the capital of Afghanistan?
+A.  Andorra La Vella
+B.  Kabul
+C.  Manama
+D.  Minsk
+
+What is the capital of Albaia?
+A.  Andorra La Vella
+B.  Canberra
+C.  Tirana
+D.  Yerevan
+
+What is the capital of Algeria?
+A.  Algiers
+B.  Manama
+C.  Manama
+D.  Minsk
+
+What is the capital of Andorra?
+A.  Andorra La Vella
+B.  Andorra La Vella
+C.  Saint Johns
+D.  Vienna
+
+What is the capital of Angola?
+A.  Bridgetown
+B.  Buenos Aires
+C.  Luanda
+D.  Luanda
+
+What is the capital of Antigua & Barbuda?
+A.  Bridgetown
+B.  Canberra
+C.  Minsk
+D.  Saint Johns
+
+What is the capital of Argentina?
+A.  Brussels
+B.  Buenos Aires
+C.  Nassau
+D.  Thimphu
+
+What is the capital of Armenia?
+A.  Kabul
+B.  Porto-Novo
+C.  Saint Johns
+D.  Yerevan
+
+What is the capital of Australia?
+A.  Algiers
+B.  Baku
+C.  Buenos Aires
+D.  Canberra
+
+What is the capital of Austria?
+A.  Bridgetown
+B.  Canberra
+C.  Thimphu
+D.  Vienna
+
+What is the capital of Azerbaijan?
+A.  Baku
+B.  Bridgetown
+C.  Brussels
+D.  Buenos Aires
+
+What is the capital of Bahamas?
+A.  Kabul
+B.  Luanda
+C.  Nassau
+D.  Saint Johns
+
+What is the capital of Bahrain?
+A.  Baku
+B.  Brussels
+C.  Manama
+D.  Vienna
+
+What is the capital of Bangladesh?
+A.  Bridgetown
+B.  Kabul
+C.  Thimphu
+D.  Vienna
+
+What is the capital of Belarus?
+A.  Kabul
+B.  Minsk
+C.  Thimphu
+D.  Thimphu
+
+What is the capital of Belgium?
+A.  Algiers
+B.  Andorra La Vella
+C.  Brussels
+D.  Canberra
+
+What is the capital of Belize?
+A.  Andorra La Vella
+B.  Belmopan
+C.  Bridgetown
+D.  Saint Johns
+
+What is the capital of Benin?
+A.  Algiers
+B.  Buenos Aires
+C.  Kabul
+D.  Porto-Novo
+
+What is the capital of Bhutan?
+A.  Luanda
+B.  Minsk
+C.  Saint Johns
+D.  Thimphu
+
