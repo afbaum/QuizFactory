@@ -94,14 +94,31 @@ namespace QuizFactory
             if (quizType == 1)
             {
                 // sets quizData to List<PromptAnser> for the State/City information
-                quizData = StateData;
+                ReadQuizData("./StatesCapitals.csv");
             }
             else if(quizType == 2)
             {
                 // sets quizData to List<PromptAnswer> for the Country/Capital information
-                quizData = CountryData;
+                // quizData = CountryData;
             }
             // Returns list<PromptAnser> {state/country, {capitol, IsCorrect}}
+        }
+
+        public static void ReadQuizData(string fileName)
+        {
+            var quizData = new List<PromptAnswer>();
+            using(var reader = new StreamReader(fileName))
+            {
+                string line = "";
+                while((line = reader.ReadLine()) != null)
+                {
+                   
+                    string[] values = line.Split(',');
+                    var promptAnswer = new PromptAnswer(values[0], values[1]);
+                    quizData.Add(promptAnswer);
+                }
+            }
+
             AddIncorrectAnswers(quizData);
         }
 
