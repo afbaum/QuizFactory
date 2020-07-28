@@ -2,6 +2,8 @@
 
 namespace QuizFactory
 {
+    // Let use know when file is created
+    // give a different name to the state and country file
     class Program
     {
         static void Main(string[] args)

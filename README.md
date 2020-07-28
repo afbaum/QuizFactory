@@ -1,3 +1,5 @@
+![.NET Core](https://github.com/afbaum/QuizFactory/workflows/.NET%20Core/badge.svg)
+
 This is a c# console app that creates a quiz based on US States and their Capitals or Countries and their Capitals.  The program starts with a while loop which allows you to select 
     1. State Capital quiz
     2. Country Capital quiz
